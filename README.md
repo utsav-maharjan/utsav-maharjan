@@ -25,8 +25,7 @@ Hello! I'm a **System Administrator** and **DevOps Enthusiast** with a passion f
 
 ## 📫 Let's Connect!  
 
-Feel free to reach out or collaborate:  
-- **GitHub**: [Your GitHub Profile](https://github.com/utsav-maharjan)  
+Feel free to reach out or collaborate:   
 - **LinkedIn**: [Utsav Maharjan](https://www.linkedin.com/in/utsav-maharjan-328641213) 
 
 ---
